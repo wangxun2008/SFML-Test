@@ -5,6 +5,7 @@ int main()
 	sf::RenderWindow window(sf::VideoMode({800, 800}), "SFML works!");
 	sf::CircleShape shape(100.f);
 	shape.setFillColor(sf::Color::Green);
+	shape.setPosition({400, 300}); // 移动圆形
 	
 	while (window.isOpen())
 	{
