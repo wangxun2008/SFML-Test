@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Learning/CMake/SFML-Test/build",
+  "command": "C:\\PROGRA~1\\REDPAN~1\\MINGW6~1\\bin\\G__~1.EXE -DSFML_STATIC @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\app.dir\\src\\main.cpp.obj -c E:\\Learning\\CMake\\SFML-Test\\src\\main.cpp",
+  "file": "E:/Learning/CMake/SFML-Test/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.obj"
+}
+]
